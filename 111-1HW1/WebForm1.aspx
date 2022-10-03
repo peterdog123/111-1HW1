@@ -9,7 +9,8 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>Hello App
+        <div>
+            <asp:Button ID="btn_show" runat="server" Text="Button" />
         </div>
     </form>
 </body>
